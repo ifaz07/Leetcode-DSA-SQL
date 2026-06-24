@@ -11,4 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/ifaz07/Leetcode/tree/master/0093-restore-ip-addresses) |
+## Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/ifaz07/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/ifaz07/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/ifaz07/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/ifaz07/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
