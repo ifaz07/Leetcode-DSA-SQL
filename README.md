@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ifaz07/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ifaz07/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ifaz07/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ifaz07/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ifaz07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ifaz07/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/ifaz07/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ifaz07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ifaz07/Leetcode/tree/master/0283-move-zeroes) |
