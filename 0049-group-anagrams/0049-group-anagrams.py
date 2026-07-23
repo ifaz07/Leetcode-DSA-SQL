@@ -3,22 +3,11 @@ class Solution(object):
         groups = {}
 
         for s in strs:
-            count = [0] * 26
-
-            for c in s:
-                count[ord(c) - 97] += 1
-
-            key = ""
-            for x in count:
-                key += "#" + str(x)
+            key = ''.join(sorted(s))
 
             if key not in groups:
                 groups[key] = []
 
             groups[key].append(s)
 
-        ans = []
-        for key in groups:
-            ans.append(groups[key])
-
-        return ans
+        return list(groups.values())
