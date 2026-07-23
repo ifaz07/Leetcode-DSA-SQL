@@ -1,13 +1,24 @@
 class Solution(object):
     def groupAnagrams(self, strs):
-        from collections import defaultdict
-        
-        groups = defaultdict(list)
-        
+        groups = {}
+
         for s in strs:
             count = [0] * 26
+
             for c in s:
-                count[ord(c) - ord('a')] += 1
-            groups[tuple(count)].append(s)
-        
-        return groups.values()
+                count[ord(c) - 97] += 1
+
+            key = ""
+            for x in count:
+                key += "#" + str(x)
+
+            if key not in groups:
+                groups[key] = []
+
+            groups[key].append(s)
+
+        ans = []
+        for key in groups:
+            ans.append(groups[key])
+
+        return ans
