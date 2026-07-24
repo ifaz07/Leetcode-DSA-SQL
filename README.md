@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ifaz07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ifaz07/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ifaz07/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ifaz07/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ifaz07/Leetcode/tree/master/0283-move-zeroes) |
 | [0994-rotting-oranges](https://github.com/ifaz07/Leetcode/tree/master/0994-rotting-oranges) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/ifaz07/Leetcode/tree/master/0133-clone-graph) |
 | [0202-happy-number](https://github.com/ifaz07/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/ifaz07/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ifaz07/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ifaz07/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
