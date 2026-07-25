@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ifaz07/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ifaz07/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/ifaz07/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/ifaz07/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/ifaz07/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ifaz07/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ifaz07/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ifaz07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ifaz07/Leetcode/tree/master/0155-min-stack) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
