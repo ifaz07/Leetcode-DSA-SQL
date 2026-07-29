@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ifaz07/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/ifaz07/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ifaz07/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ifaz07/Leetcode-Problems/tree/master/0071-simplify-path) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ifaz07/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ifaz07/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
@@ -351,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ifaz07/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ifaz07/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
