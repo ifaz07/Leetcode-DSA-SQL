@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ifaz07/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ifaz07/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ifaz07/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ifaz07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1768-merge-strings-alternately](https://github.com/ifaz07/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ifaz07/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/ifaz07/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ifaz07/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ifaz07/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ifaz07/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ifaz07/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ifaz07/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1768-merge-strings-alternately](https://github.com/ifaz07/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
