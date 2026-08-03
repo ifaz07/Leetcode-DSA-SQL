@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ifaz07/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ifaz07/Leetcode/tree/master/0283-move-zeroes) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ifaz07/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0994-rotting-oranges](https://github.com/ifaz07/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ifaz07/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ifaz07/Leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ifaz07/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ifaz07/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ifaz07/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ifaz07/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ifaz07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ifaz07/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ifaz07/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ifaz07/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ifaz07/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ifaz07/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1768-merge-strings-alternately](https://github.com/ifaz07/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ifaz07/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ifaz07/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ifaz07/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ifaz07/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ifaz07/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Data Stream
 |  |
 | ------- |
