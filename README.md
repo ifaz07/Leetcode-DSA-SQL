@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ifaz07/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/ifaz07/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ifaz07/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ifaz07/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ifaz07/Leetcode-Problems/tree/master/0071-simplify-path) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ifaz07/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ifaz07/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ifaz07/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/ifaz07/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/ifaz07/Leetcode/tree/master/0049-group-anagrams) |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ifaz07/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ifaz07/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
