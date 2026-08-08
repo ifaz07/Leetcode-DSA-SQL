@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0552-student-attendance-record-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0552-student-attendance-record-ii) |
 | [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0799-champagne-tower](https://github.com/ifaz07/Leetcode-Problems/tree/master/0799-champagne-tower) |
 ## Divide and Conquer
 |  |
 | ------- |
