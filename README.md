@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ifaz07/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0552-student-attendance-record-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0552-student-attendance-record-ii) |
 | [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
