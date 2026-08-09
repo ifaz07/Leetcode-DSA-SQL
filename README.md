@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ifaz07/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ifaz07/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/ifaz07/Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0139-word-break](https://github.com/ifaz07/Leetcode-Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ifaz07/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ifaz07/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ifaz07/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ifaz07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/ifaz07/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ifaz07/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ifaz07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ifaz07/Leetcode-Problems/tree/master/0198-house-robber) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/ifaz07/Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/ifaz07/Leetcode-Problems/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/ifaz07/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/ifaz07/Leetcode-Problems/tree/master/0383-ransom-note) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ifaz07/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/ifaz07/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ifaz07/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/ifaz07/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ifaz07/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ifaz07/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ifaz07/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ifaz07/Leetcode-Problems/tree/master/0139-word-break) |
 ## Algorithm X
 |  |
 | ------- |
@@ -406,4 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ifaz07/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ifaz07/Leetcode-Problems/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ifaz07/Leetcode-Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
