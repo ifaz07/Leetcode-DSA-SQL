@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ifaz07/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ifaz07/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ifaz07/Leetcode/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/ifaz07/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ifaz07/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ifaz07/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/ifaz07/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ifaz07/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ifaz07/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/ifaz07/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ifaz07/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0994-rotting-oranges](https://github.com/ifaz07/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ifaz07/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ifaz07/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/ifaz07/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0552-student-attendance-record-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0552-student-attendance-record-ii) |
 | [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -422,4 +425,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ifaz07/Leetcode-Problems/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ifaz07/Leetcode-Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ifaz07/Leetcode-Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
