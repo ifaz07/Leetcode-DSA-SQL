@@ -9,6 +9,6 @@ class Solution(object):
             farthest = max(farthest, i + nums[i])
 
             if farthest >= len(nums) - 1:
-                return True
+                return True 
 
         return True
