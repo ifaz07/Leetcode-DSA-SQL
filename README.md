@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ifaz07/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ifaz07/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0496-next-greater-element-i](https://github.com/ifaz07/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ifaz07/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0994-rotting-oranges](https://github.com/ifaz07/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/ifaz07/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ifaz07/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/ifaz07/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ifaz07/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
@@ -259,11 +261,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ifaz07/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ifaz07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ifaz07/Leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/ifaz07/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ifaz07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/ifaz07/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
