@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ifaz07/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ifaz07/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ifaz07/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ifaz07/Leetcode-Problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ifaz07/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ifaz07/Leetcode-Problems/tree/master/0051-n-queens) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ifaz07/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ifaz07/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ifaz07/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ifaz07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/ifaz07/Leetcode-Problems/tree/master/0072-edit-distance) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ifaz07/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ifaz07/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ifaz07/Leetcode-Problems/tree/master/0055-jump-game) |
 ## Range Minimum/Maximum Query
 |  |
