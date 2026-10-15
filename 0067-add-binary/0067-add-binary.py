@@ -12,10 +12,10 @@ class Solution(object):
 
             total = x + y + carry
 
-            totalSum += str(total % 2)
+            totalSum = str(total % 2) + totalSum
             carry = total // 2
 
             i -= 1
             j -= 1
 
-        return totalSum[::-1]
+        return totalSum
