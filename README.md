@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ifaz07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1021-remove-outermost-parentheses](https://github.com/ifaz07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/ifaz07/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 ## Backtracking
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ifaz07/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ifaz07/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/ifaz07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ifaz07/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ifaz07/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/ifaz07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Memoization
 |  |
 | ------- |
