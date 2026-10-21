@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ifaz07/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ifaz07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ifaz07/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ifaz07/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ifaz07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/ifaz07/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ifaz07/Leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ifaz07/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/ifaz07/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ifaz07/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Linked List
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ifaz07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ifaz07/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ifaz07/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ifaz07/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ifaz07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/ifaz07/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ifaz07/Leetcode-Problems/tree/master/0509-fibonacci-number) |
