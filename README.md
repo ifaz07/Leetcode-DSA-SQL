@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ifaz07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/ifaz07/Leetcode-Problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ifaz07/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ifaz07/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ifaz07/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ifaz07/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ifaz07/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/ifaz07/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ifaz07/Leetcode-Problems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ifaz07/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/ifaz07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ifaz07/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
