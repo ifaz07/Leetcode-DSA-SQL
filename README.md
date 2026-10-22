@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ifaz07/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/ifaz07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ifaz07/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/ifaz07/Leetcode-Problems/tree/master/0461-hamming-distance) |
 ## Linked List
 |  |
 | ------- |
