@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ifaz07/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/ifaz07/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ifaz07/Leetcode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0867-transpose-matrix](https://github.com/ifaz07/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ifaz07/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ifaz07/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ifaz07/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ifaz07/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ifaz07/Leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/ifaz07/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ifaz07/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Quickselect
 |  |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ifaz07/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ifaz07/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ifaz07/Leetcode/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/ifaz07/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ifaz07/Leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
