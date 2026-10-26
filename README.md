@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ifaz07/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ifaz07/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/ifaz07/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ifaz07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/ifaz07/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ifaz07/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/ifaz07/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ifaz07/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ifaz07/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/ifaz07/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ifaz07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ifaz07/Leetcode-Problems/tree/master/0202-happy-number) |
@@ -558,4 +560,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ifaz07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ifaz07/Leetcode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
